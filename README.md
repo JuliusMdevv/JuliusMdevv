@@ -2,8 +2,8 @@
 > - [x] Attended events
 > - [ ] Made a portfolio site
 
-> [!CAUTION]
-> ### This guy is a bonehead
+> [!NOTE]
+> # I rarely publish projects, maybe check back later :)
 
 
 
