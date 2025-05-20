@@ -3,7 +3,7 @@
 > - [ ] Made a portfolio site
 
 > [!NOTE]
-> # I rarely publish projects, maybe check back later :)
+> ### I rarely publish projects, maybe check back later :)
 
 
 
