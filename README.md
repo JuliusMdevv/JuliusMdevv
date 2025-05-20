@@ -1,6 +1,6 @@
 > ## Just a chill guy who likes programming a bit too much..
-- [x] Attended events
-- [ ] Made a portfolio site
+> - [x] Attended events
+> - [ ] Made a portfolio site
 
 
 
