@@ -1,9 +1,13 @@
 > ## Just a chill guy who likes programming a bit too much..
-> - [x] Attended events
+> - [x] Won an award at a hackathon
+> - [x] Got programming lead on a robotics team
+> - [ ] Started a business
 > - [ ] Made a portfolio site
+> - [ ] Releases projects
+> - [ ] Makes useful things
 
-> [!NOTE]
-> I rarely publish projects, maybe check back later :)
+<!-- > [!NOTE]
+> I rarely publish projects, maybe check back later :) -->
 
 
 
