@@ -1,27 +1,3 @@
-> ## Just a chill guy who likes programming a bit too much..
-> - [x] Won an award at a hackathon
-> - [x] Got programming lead on a robotics team
-> - [ ] Started a business
-> - [ ] Made a portfolio site
-> - [ ] Releases projects
-> - [ ] Makes useful things
+### Hi! I'm Julius.
 
-<!-- > [!NOTE]
-> I rarely publish projects, maybe check back later :) -->
-
-
-
-<!--
-**JuliusMdevv/JuliusMdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
